@@ -31,7 +31,7 @@ Git • GitHub • REST APIs
 
 ## Featured Projects
 
-### BiLSTM Mental Health Text Classification
+### DistilBERT mental health text classifier
 Built a TensorFlow-based NLP model for multi-class mental health statement classification.
 
 ### Brazilian E-Commerce Analytics
